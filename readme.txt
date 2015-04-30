@@ -3,7 +3,7 @@ Contributors: IP2Location
 Donate link: http://www.ip2location.com
 Tags: targeted content, geolocation
 Requires at least: 2.0
-Tested up to: 4.1
+Tested up to: 4.3
 Stable tag: 2.0.0
 
 Description: A library that enables you to easily display visitor's location information based on IP address and customize the content display for different countries in pages, plugins, or themes.
